@@ -8,12 +8,14 @@ One fixed joke about office life, written for the
 [One-Line Office Joke: 24-Hour Sprint](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
 bounty on make.fun.
 
-The joke works because it is built on a detail every office worker knows
-first-hand: meetings are where time goes to be missed, rescheduled, and
-followed up with a deck nobody reads. A fire drill inverts all three at
-once — everybody shows up, everybody leaves together, and the slides never
-appear. The setup sounds like praise for a meeting; the last word reveals
-it was never a meeting at all.
+The humour comes from a comparison the reader makes without being told
+to: a fire drill and a meeting look alike from the outside — a room full of
+colleagues, standing around, waiting to be released — but the drill is
+missing everything that makes meetings miserable. Nobody drifts in late,
+nobody slips out early, and nobody has to sit through a slide deck
+afterwards. The sentence praises the drill as if it were a meeting done
+right, and only the final word gives away that it was never a meeting at
+all — that is where the laugh is, so that is where the sentence ends.
 
 Running `main.ts` (Node 22) writes the joke to `entry.txt` in the output
 directory: `MAKEFUN_OUTPUT_DIR` when set, otherwise `/output`, otherwise
